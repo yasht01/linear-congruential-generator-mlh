@@ -1,5 +1,6 @@
 def lcg(seedVal):
-
+    
+    # Values of a, c and m were taken from the wikipedia link in the README.md
     a = 214013
     c = 2531011
     m = 2**32
